@@ -1,3 +1,5 @@
+.idea/
+.vscode/
 node_modules
 build
 dist
@@ -5,3 +7,8 @@ npm-debug.log
 .env
 .DS_Store
 ormconfig.json
+temp/
+
+tmp/*
+!tmp/.gitkeep
+
